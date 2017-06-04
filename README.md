@@ -32,7 +32,7 @@ The front of a General flash card.
 
 ---
 
-The reverse (answer side) of a expression flash card.
+The reverse (answer side) of an Expression flash card.
 
 ![expression answer view](screenshots/memorize-flipped-card.png)
 
