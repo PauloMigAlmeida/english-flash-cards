@@ -2,18 +2,15 @@
 
 This code was originally written by [@jwasham](https://github.com/jwasham) among other [contributors](https://github.com/jwasham/computer-science-flash-cards/graphs/contributors). I modified according to my needs and built deployment automation scripts to make it easier for future developers/users.
 
-This is a little website that allows ESL learners (me included) to easily make flash cards and quiz themselves for memorization of:
+This is a little responsive website that allows ESL learners (me included) to easily make flash cards and quiz themselves for memorization of:
 
-- general english knowledge
-    - vocabulary
-    - prepositions
-    - expressions
+- General English Knowledge
+    - Vocabulary
+    - Prepositions
+    - Expressions
 
-Will be able to use it on:
-    - desktop
-    - mobile (phone and tablet)
+Technologies used when building it:
 
-It uses:
 - Python 3
 - Flask
 - SQLite
